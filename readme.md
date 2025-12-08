@@ -6,6 +6,7 @@ The main objective is to understand the ML pipeline rather than achieve high pre
 The current model performance is as follows:
 
 R² Score: 0.47
+
 RMSE: approximately -10,500
 
 These results are expected at this stage, since:
